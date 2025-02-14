@@ -1,0 +1,8 @@
+Factura este:
+Detaliile clientului de facturare sunt: 
+Client{id=2, name='Marian', address='observatorului', email='marian@gamil.com', age=34}
+Produsul care a fost comandat este: 
+
+Product{id=1, name='pepsi', stock=22}
+
+Numarul de produse pe care clientul le-a cumparat este:22
